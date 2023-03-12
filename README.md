@@ -25,10 +25,10 @@
 
 ## Lista de alias
 
-|Comando Alias                  | Descripcion                             |
-|-------------------------------|-----------------------------------------|
-|alias gh="history &#124; grep" |Permite buscar un  comando en historial  |
-|alias mi_ip='curl ifconfig.me' |Se puede averiguar de forma rapida mi ip |
+|Comando Alias                        | Descripcion                             |
+|-------------------------------------|-----------------------------------------|
+|```alias gh="history \| grep" ```    |Permite buscar un  comando en historial  |
+|```alias mi_ip="curl ifconfig.me" ```|Se puede averiguar de forma rapida mi ip |
 
 
 
