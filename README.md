@@ -1,19 +1,20 @@
 ## Hola soy jayler castillo 👋
-estudiante de programacion web apasionado por la tecnologia y los videojuegos
-### Sobre mi
-- Estudiante de Programacion De Aplicaciones Y Servicios para La Nube en el SENA(en curso).
-- Me apasiona la tecnologia y la investigacion
-- Me divierto jugando videojuegos
+## Perfil personal
+- :mag: Me apasiona la tecnologia y la investigacion
+- :book: Siempre estoy dispuesto a aprender
+- :video_game: Me divierto jugando videojuegos
+- :notes: Me gusta el rock
+
 ## Habilidades
 
 ### Lenguajes de programacion
-- javascript
-- python
-- java
-- html 
-- css
+- Javascript
+- Python
+- Java
+- Html 
+- Css
 
-## lista de 5 comandos 
+## Lista de 5 comandos 
 |Comanndo | Descripcion                                                                                                                     |
 |---------|---------------------------------------------------------------------------------------------------------------------------------|
 |man      |Permite conocer el uso de todos los comandos de linux , sinopsis, descripción, opciones, ejemplos, etc.                          |
@@ -22,9 +23,9 @@ estudiante de programacion web apasionado por la tecnologia y los videojuegos
 |touch    |Se usa para crear cualquier tipo nuevo de archivo.                                                                               |
 |alias    |Al crear un alias, se indica al shell que sustituya una palabra por una serie de comandos.                                       | 
 
-## lista de alias
+## Lista de alias
 
-|comando alias                  | Descripcion                             |
+|Comando Alias                  | Descripcion                             |
 |-------------------------------|-----------------------------------------|
 |alias gh="history &#124; grep" |Permite buscar un  comando en historial  |
 |alias mi_ip='curl ifconfig.me' |Se puede averiguar de forma rapida mi ip |
