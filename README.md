@@ -1,35 +1,22 @@
 ## Hola soy jayler castillo 👋
-## Perfil personal
-- :mag: Me apasiona la tecnologia y la investigacion
-- :book: Siempre estoy dispuesto a aprender
-- :video_game: Me divierto jugando videojuegos
-- :notes: Me gusta el rock
+
+Soy un apasionado de la programación y un entusiasta de la tecnología. 
+**Algunos aspectos destacados sobre mí:**
+
+- 🌐 Estoy fascinado por el potencial de la tecnología para cambiar el mundo y estoy comprometido a contribuir a ello.
+- 🚀 Siempre estoy buscando nuevos desafíos y proyectos emocionantes para aprender y mejorar mis habilidades.
+- 🤝 Disfruto colaborando con otros desarrolladores y compartiendo conocimientos con la comunidad.
 
 ## Habilidades
 
 ### Lenguajes de programacion
+
 - Javascript
 - Python
 - Java
 - Html 
 - Css
-
-## Lista de 5 comandos 
-|Comanndo | Descripcion                                                                                                                     |
-|---------|---------------------------------------------------------------------------------------------------------------------------------|
-|man      |Permite conocer el uso de todos los comandos de linux , sinopsis, descripción, opciones, ejemplos, etc.                          |
-|rm       |elimina cada archivo especificado en la línea de Vcomando y directorios **de forma premanente**.                                 |
-|mv       |Se utiliza para mover archivos y directorios de una ubicación a otra, también es utilizado para renombrar archivos y directorios |
-|touch    |Se usa para crear cualquier tipo nuevo de archivo.                                                                               |
-|alias    |Al crear un alias, se indica al shell que sustituya una palabra por una serie de comandos.                                       | 
-
-## Lista de alias
-
-|Comando Alias                        | Descripcion                             |
-|-------------------------------------|-----------------------------------------|
-|```alias gh="history \| grep" ```    |Permite buscar un  comando en historial  |
-|```alias mi_ip="curl ifconfig.me" ```|Se puede averiguar de forma rapida mi ip |
-
+¡Gracias por visitar mi perfil! Siéntete libre de explorar mis proyectos y no dudes en contactarme si quieres colaborar en algo o simplemente charlar sobre tecnología y programación. 😊
 
 
 
