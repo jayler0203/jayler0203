@@ -16,6 +16,7 @@ Soy un apasionado de la programación y un entusiasta de la tecnología.
 - Java
 - Html 
 - Css
+  
 ¡Gracias por visitar mi perfil! Siéntete libre de explorar mis proyectos y no dudes en contactarme si quieres colaborar en algo o simplemente charlar sobre tecnología y programación. 😊
 
 
